@@ -1,0 +1,87 @@
+[
+  {
+    "id": 1,
+    "title": "Sample Item 1",
+    "description": "This is a sample item"
+  },
+  {
+    "id": 2,
+    "title": "Sample Item 2",
+    "description": "This is another sample item"
+  },
+  {
+    "id": 3,
+    "title": "Project Management Tool",
+    "description": "A collaborative project tracking system"
+  },
+  {
+    "id": 4,
+    "title": "E-commerce Platform",
+    "description": "Online marketplace solution"
+  },
+  {
+    "id": 5,
+    "title": "Social Media Dashboard",
+    "description": "Analytics and management platform"
+  },
+  {
+    "id": 6,
+    "title": "Mobile App Framework",
+    "description": "Cross-platform development toolkit"
+  },
+  {
+    "id": 7,
+    "title": "Cloud Storage Service",
+    "description": "Secure file storage and sharing"
+  },
+  {
+    "id": 8,
+    "title": "AI Chat Assistant",
+    "description": "Intelligent conversation bot"
+  },
+  {
+    "id": 9,
+    "title": "Video Streaming Platform",
+    "description": "On-demand content delivery"
+  },
+  {
+    "id": 10,
+    "title": "Task Management System",
+    "description": "Personal and team productivity tool"
+  },
+  {
+    "id": 11,
+    "title": "Data Analytics Suite",
+    "description": "Business intelligence platform"
+  },
+  {
+    "id": 12,
+    "title": "Payment Gateway",
+    "description": "Secure transaction processing"
+  },
+  {
+    "id": 13,
+    "title": "Learning Management System",
+    "description": "Educational content platform"
+  },
+  {
+    "id": 14,
+    "title": "Customer Support Portal",
+    "description": "Help desk and ticket system"
+  },
+  {
+    "id": 15,
+    "title": "Inventory Management",
+    "description": "Stock tracking and control"
+  },
+  {
+    "id": 16,
+    "title": "Content Management System",
+    "description": "Website and blog platform"
+  },
+  {
+    "id": 17,
+    "title": "HR Management Tool",
+    "description": "Employee data and payroll system"
+  }
+]
